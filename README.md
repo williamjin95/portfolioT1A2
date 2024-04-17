@@ -8,21 +8,21 @@ The purpose of portfolioT1A2 is to showcase the skills that I've learnt from the
 
 ## Screenshots
 
-!([screenshots](img/mainpage.png))
+!([screenshots](pictures/mainpage.png))
 
-!([screenshots](img/blog.png))
+!([screenshots](pictures/blog.png))
 
 ## Sitemap R5
 
 It's designed to be very basic, primarily to facilitate learning the technical aspects of creating a website for the first time. Everything is just a click away for easy access.
 
-!([sitemap](img/sitemap.png))
+!([sitemap](pictures/sitemap.png))
 
 ## Wireframe R6
 
 The goal is for the website to be easily understandable for whoever is viewing it, providing information directly without unnecessary complexity
 
-!([wireframe](img/wireframe.png))
+!([wireframe](pictures/wireframe.png))
 
 ## Components R7
 
