@@ -28,10 +28,10 @@
     font-size: 17px;
 }
 
-/* styling for my name  */
+/* styling for different components in the body  */
 
 header {
-    background-color: lightgray;
+    background-color: rgb(141, 141, 141);
     height: 100px;
 }
 
@@ -40,25 +40,34 @@ h1 {
     color: white;
     line-height: 100px;
     margin: 0;
-}
+    font-size: 50px;
 
-
-
-article {
-    padding: 10px;
-    margin: 10px;
-    outline: 2px solid black;
 }
 
 section {
     display: flex;
+    flex-wrap: wrap;
 }
 
 article {
     flex: 1;
-    padding: 10px;
+    padding: 50px;
     margin: 10px;
     outline: 2px solid black;
     text-align: center;
+    font-size: 25px;
+    border-radius: 5%;
 }
 
+footer {
+    text-align: center;
+    padding: 10px;
+}
+
+/* styling for different viewports, the lorem ipsem wouldnt fit in the box without it */
+
+@media only screen and (min-width: 700px) and (max-width:950px) {
+    #content {
+        flex: 80%;
+    }
+}
